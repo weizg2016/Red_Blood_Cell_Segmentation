@@ -5,4 +5,4 @@ The first image in the directory "00.png" shows the original image, with the rec
   
 Input: blood smear image, directory name.
 
-Example: python Project_RBC_Segmentation.py Blood_Image.png Diractory_path 
+**Example**: python Project_RBC_Segmentation.py Blood_Image.png Diractory_path 
